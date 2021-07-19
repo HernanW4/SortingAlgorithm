@@ -17,7 +17,7 @@
 #include <windows.h>
 #include <iostream>
 
-#include "Column.h"
+#include "headers/Column.h"
 using namespace std;
 
 void swap(float *array1, float *array2){
